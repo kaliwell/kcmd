@@ -1,6 +1,7 @@
 # kcmd
 windows kill cmd
-![Uploading wt2s1112.gif…]()
+![wt2s1112](https://github.com/kaliwell/kcmd/assets/78673980/532ef529-4280-4f8d-af9d-37a39de2c2c7)
+
 [+]Usage: kcmd [options]
 Options:
   -f    Only kill parent processes
